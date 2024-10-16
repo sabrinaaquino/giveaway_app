@@ -19,7 +19,7 @@
 		/>
 
 		<p class="heading-level-6">
-			Login with Discord and get a chance to win some amazing gifts!
+			Login with Discord and get a chance to win!
 		</p>
 
 		<button class="button is-big" on:click={login}>
@@ -46,16 +46,20 @@
 	}
 
 	img {
-		max-width: 70%;
+		max-width: 50%;
+		border-radius: 10px;
+		border: 4px solid #DC244C; 
+		background-color: #06153D;
+		padding: 9px; 
 	}
 
 	p, button {
-		margin: 2rem;
+		margin: 1.5rem;
 	}
 
 	@media (max-width: 768px) {
 		img {
-			max-width: 90%;
+			max-width: 80%;
 		}
 
 		div {
