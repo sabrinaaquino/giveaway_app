@@ -1,7 +1,7 @@
 export const APPWRITE_ENDPOINT = 'https://cloud.appwrite.io/v1';
 
-export const APPWRITE_PROJECT = 'initraffle';
+export const APPWRITE_PROJECT = '670ef5e50038f6e27037';
 
-export const DATABASE_NAME = 'init-2-db';
+export const DATABASE_NAME = '670ef9c20033ec6a08d8';
 
-export const COLLECTION_NAME = 'day4';
+export const COLLECTION_NAME = '670ef9e3002744214743'
